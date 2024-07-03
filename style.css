@@ -4,8 +4,8 @@ body {
 }
 
 a{
-    text-decoration: red;
-    color: red;
+    text-decoration: rgb(164, 50, 137);
+    color: rgb(102, 0, 255);
 }
 
 h1 ,h2 ,h3{
@@ -13,7 +13,7 @@ margin: 0;
 }
 
 #container{
-    background-color: #eee;
+    background-color: #66ccff;
     width:800px;
     margin-left:auto;
     margin-right:auto;
@@ -43,6 +43,7 @@ margin: 0;
 
 #nav.selected {
     font-weight: bold;
+    Font-size: 10px;
 }
 
 #main{
